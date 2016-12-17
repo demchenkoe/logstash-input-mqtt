@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
-  s.name = 'logstash-input-mqtt'
-  s.version = '0.0.2'
+  s.name = 'logstash5-input-mqtt'
+  s.version = '0.0.3'
   s.licenses = ['Apache License (2.0)']
   s.summary = "This input plugin subscribes to a mqtt topic and ."
   s.description = "This gem is a logstash plugin required to be installed on top of the Logstash core pipeline using $LS_HOME/bin/plugin install gemname. This gem is not a stand-alone program"
